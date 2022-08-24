@@ -1,4 +1,4 @@
-# twitterclone-app --- UMAR
+# Twitterclone-app --- UMAR
 ### See demo here ---- https://twitterclone-webapp.netlify.app/
 
 ![Twitter](https://user-images.githubusercontent.com/90206214/186530142-901ad081-7809-4a6b-8914-c23e19f170f8.PNG)
